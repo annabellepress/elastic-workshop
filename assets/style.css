@@ -1,0 +1,51 @@
+body {
+	font-family: roc-grotesk, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 48px;
+}
+
+#glossary{
+	font-size: 32px;
+	font-weight: 200;
+	font-style: normal;
+}
+#glossary:hover {
+	color: chartreuse;
+	transition: 0.2s all ease;
+}
+#gallery{
+	font-size: 32px;
+	font-weight: 200;
+	font-style: normal;
+}
+#gallery:hover {
+	color: chartreuse;
+	transition: 0.2s all ease;
+}
+#resources{
+	font-size: 32px;
+	font-weight: 200;
+	font-style: normal;
+}
+#resources:hover {
+	color: chartreuse;
+	transition: 0.2s all ease;
+}
+
+/* assign different font weights to each artist */
+.Rene_Magritte {
+	font-weight: 100;
+}
+.Salvador_Dali {
+	font-weight: 400;
+}
+.Leonara_Carrington {
+	font-weight: 800;
+}
+.Joan_Miroy {
+	font-weight: 500;
+}
+.Max_Ernst {
+	font-weight: 300;
+}
